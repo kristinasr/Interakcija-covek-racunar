@@ -1,0 +1,246 @@
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.g.cs
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.baml
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.g.cs
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.baml
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\S\Desktop\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.g.cs
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.g.cs
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.g.cs
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.baml
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.baml
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.baml
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\zivko\OneDrive\Desktop\PRVIPROJ\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.g.cs
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.g.cs
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.g.cs
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.baml
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.baml
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.baml
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Stefan Krstic\Desktop\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.g.cs
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.g.cs
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.g.cs
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.baml
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.baml
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.baml
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\zivko\OneDrive\Desktop\1P\HCIP222222\HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.g.cs
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.g.cs
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.g.cs
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\App.g.cs
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.baml
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.baml
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.baml
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+D:\Fax\HCIProjekti\hcihcihci\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.g.cs
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.g.cs
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.g.cs
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.baml
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.baml
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.baml
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Stefan Krstic\Desktop\HCI\CG1T4G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.g.cs
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.g.cs
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.g.cs
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.baml
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.baml
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.baml
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Stefan Krstic\Desktop\HCI\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.g.cs
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.g.cs
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.g.cs
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.baml
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.baml
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.baml
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\My Computer\Desktop\HCI_PROJ\CG4T7G3P2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.g.cs
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.g.cs
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.g.cs
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\Views\ChartDataView.baml
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\Views\DragAndDropView.baml
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.baml
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\My Computer\Desktop\hci_kon\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
